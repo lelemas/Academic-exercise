@@ -1,0 +1,19 @@
+//tabelline
+#include <stdio.h>
+
+
+int main(){
+    //def var
+    int x = 1, y = 1;
+
+    while(x <= 10){
+        while(y <= 10){
+            printf("%d\t", x*y);
+            y++;
+        //fine while
+        }
+        printf("\n");
+        y = 1;
+        x++;
+    }
+}
