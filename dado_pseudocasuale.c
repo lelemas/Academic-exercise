@@ -46,3 +46,5 @@ int main(){
     printf("   %d%13d\n", face = 5, freq5);
     printf("   %d%13d\n", face = 6, freq6);
 }
+
+/*darà sempre gli stessi numeri ad ogni esecuzione, pseudocasuali proprio per questo motivo*/
