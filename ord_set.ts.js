@@ -1,3 +1,3 @@
 "use strict";
-let a = "porcodio schifoso bastardo che cazzo di bordello";
+let a = "che bordello";
 console.log(a);
